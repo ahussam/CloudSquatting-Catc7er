@@ -26,15 +26,15 @@ The tool covers the following cloud providers:
     cd CloudSquatting-Catc7er
     ```
 
-2. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Create virtual enviroment**:
+2. **Create virtual enviroment**:
    ```bash
    python3 -m venv .env
    source .env/bin/activate
    ```
+3. **Install dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 ## Usage
 
 ### Command Line
